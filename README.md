@@ -4,7 +4,7 @@
 
 <div style="text-align: center;">
 
-  **[DEMO / LIVE PREVIEW](https://bartoszlenar.github.io/astro-milidev)**
+  **[DEMO / LIVE PREVIEW](https://mmaitoza.github.io/astro-milidev)**
 
 </div>
 

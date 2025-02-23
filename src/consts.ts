@@ -13,14 +13,14 @@ export type GlobalSite = {
 };
 
 export const GLOBAL: GlobalSite = {
-  title: "Astro Milidev",
-  description: "a minimalistic blog+portfolio Astro theme",
-  author: "John Doe",
-  authorPhotoSrc: "/johndoe.png",
+  title: "Mike Maitoza",
+  description: "iOS Developer, Musician, Web Developer and Podcaster",
+  author: "Mike Maitoza",
+  authorPhotoSrc: "/mikey3.tiff",
   logo: {
-    darkThemeSrc: "/logo/logo_dark.png",
-    lightThemeSrc: "/logo/logo_light.png",
-  }
+    darkThemeSrc: "/logo-dark.svg",
+    lightThemeSrc: "/logo-light.svg",
+  },
 };
 
 
@@ -78,13 +78,13 @@ type ContactSite = ContactInfo[]
 export const CONTACT: ContactSite = [
   {
     type: "Email",
-    href: "mailto:email@example.com",
+    href: "mailto:mikemaitoza@gmail.com",
     displayAs: "email@example.com",
   },
   {
     type: "X",
-    href: "https://x.com/BillGates",
-    displayAs: "@BillGates on X",
+    href: "https://x.com/mikemaitoza1",
+    displayAs: "@nikemaitoza1 on X",
   },
   {
     type: "GitHub",
@@ -92,6 +92,6 @@ export const CONTACT: ContactSite = [
   },
   {
     type: "LinkedIn",
-    href: "https://www.linkedin.com/in/williamhgates/",
-  },
+    href: "https://www.linkedin.com/in/mmaitoza/",
+  }
 ];
