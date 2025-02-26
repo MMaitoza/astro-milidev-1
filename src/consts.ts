@@ -79,7 +79,7 @@ export const CONTACT: ContactSite = [
   {
     type: "Email",
     href: "mailto:mikemaitoza@gmail.com",
-    displayAs: "email@example.com",
+    displayAs: "mikemaitoza@gmail.com",
   },
   {
     type: "X",
