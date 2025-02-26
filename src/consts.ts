@@ -16,7 +16,7 @@ export const GLOBAL: GlobalSite = {
   title: "Mike Maitoza",
   description: "iOS Developer, Musician, Web Developer and Podcaster",
   author: "Mike Maitoza",
-  authorPhotoSrc: "/mikey3.tiff",
+  authorPhotoSrc: "/mikey4.jpg",
   logo: {
     darkThemeSrc: "/logo-dark.svg",
     lightThemeSrc: "/logo-light.svg",
