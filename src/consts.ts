@@ -84,7 +84,7 @@ export const CONTACT: ContactSite = [
   {
     type: "X",
     href: "https://x.com/mikemaitoza1",
-    displayAs: "@nikemaitoza1 on X",
+    displayAs: "@mikemaitoza1 on X",
   },
   {
     type: "GitHub",
