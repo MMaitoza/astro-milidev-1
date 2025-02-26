@@ -88,7 +88,7 @@ export const CONTACT: ContactSite = [
   },
   {
     type: "GitHub",
-    href: "https://github.com/dotnet",
+    href: "https://github.com/mmaitoza",
   },
   {
     type: "LinkedIn",
